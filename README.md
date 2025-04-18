@@ -39,6 +39,24 @@ Gain = Vout/Vin = (1.1 - 0.5 ) / 12 = 20
 
 Analysis for Acm  
 
+![Image](https://github.com/user-attachments/assets/87b882e7-8932-4844-bb27-6bbd536b1725)  
+
+Vout = 1 * 10^-9  
+Acm = (1 * 10^-9) / 100 * 10^-3 = 1 * 10^-8  
+
+CMRR = 20log(Adm/Acm) = 186.02dB  
+
+2) Adm=50V/V
+
+Adm= (R2/R1) * (1 + 2 * (R5/RG))  
+50 = (100k / 100k) × (1 + 2 × (100k / RG))  
+RG = 4.08 Kilo ohm  
+
+
+
+
+
+
 
 
 
