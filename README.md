@@ -52,6 +52,17 @@ Adm= (R2/R1) * (1 + 2 * (R5/RG))
 50 = (100k / 100k) × (1 + 2 × (100k / RG))  
 RG = 4.08 Kilo ohm  
 
+![Image](https://github.com/user-attachments/assets/0cc912f0-5934-4d17-96d4-7107152544db)  
+
+Vout = 12V approx  
+Gain = Vout/Vin = (1 - 0.76 ) / 12 = 50  
+
+Analysis for Acm  
+
+
+
+
+
 
 
 
