@@ -59,6 +59,16 @@ Gain = Vout/Vin = (1 - 0.76 ) / 12 = 50
 
 Analysis for Acm  
 
+![Image](https://github.com/user-attachments/assets/e889813a-9093-4a91-9aaa-332fe2d14837)  
+
+Vout = 1 * 10^-9  
+Acm = (1 * 10^-9) / 100 * 10^-3 = 1 * 10^-8  
+
+CMRR = 20log(Adm/Acm) = 193.97dB  
+
+
+
+
 
 
 
